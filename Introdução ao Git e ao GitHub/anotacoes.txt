@@ -1,0 +1,12 @@
+---- GIT ----
+* Git é um sistema de controle de versões distribuído.
+* Usa o sha-1, um algoritimo de criptográfia usado para criar um 
+número hexadecimal de 40 dígitos.
+* A cada alteração feita em um arquivo de um repositório git é 
+criado um novo número com o sha-1. Dessa forma o git pode rastrear
+as mudanças feitas nos arquivos, como se fosse uma linha do tempo.
+
+---- GitHub ----
+* GitHub é uma plataforma de hospedagem de código e é comumente 
+usado com git. Permite compartilhar e contribuir em projetos de 
+outras pessoas.
